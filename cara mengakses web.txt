@@ -1,0 +1,6 @@
+cara mengakses web Price Monitor
+
+1. ekstrak file .rar
+2. pindahkan ke file c:/xampp/htdocs
+3. import db yang ada di dalam folder dengan nama produk.sql ke php myadmin 
+4. load file pada browser dengan url localhost/price_monitor/home
